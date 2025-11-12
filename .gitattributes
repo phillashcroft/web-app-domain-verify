@@ -1,0 +1,2 @@
+# Treat template files as YAML for language stats
+*.tpl linguist-language=YAML
